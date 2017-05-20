@@ -5,4 +5,3 @@ def search_name(name):
         return False
 
 search_name('Diana')
-
