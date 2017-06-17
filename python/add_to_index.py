@@ -12,7 +12,7 @@ add_to_index(index,'udacity','http://npr.org')
 print (index)
 
 def lookup(index, keyword):
-    for e in index:
+    for e in index: 
         if e[0] == keyword:
             return e[1]
             break

@@ -8,7 +8,7 @@ def time_execution(code):
 
 def spin_loop(n):
      i = 0
-     while i < n:uda
+     while i < n:
          i=i+1
 
 
