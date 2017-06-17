@@ -12,5 +12,10 @@ def spin_loop(n):
     while i<n:
         i=i+1
 
-print (time_execution('57+11'))
-print (time_execution('spin_loop(10000000000)'))
+print (time_execution('spin_loop(100)'))
+print (time_execution('spin_loop(1000)'))
+print (time_execution('spin_loop(10000)'))
+print (time_execution('spin_loop(100000)'))
+print (time_execution('spin_loop(10  ** 5)'))
+print (time_execution('spin_loop(10 ** 6)'))
+print (time_execution('spin_loop(10 ** 9)'))
