@@ -1,9 +1,10 @@
 import time
 
 def time_execution(code):
-    start_time = time_clock()
-    result  = eval(code)
-    end_time = time_clock() - start_time
+    start_time = time.clock()
+    result = eval(code)
+    end_time = time.clock() - start_time
+    return result, start_time
 
 def lookup(index, keyword):
     for e in index:
@@ -12,6 +13,7 @@ def lookup(index, keyword):
             break
     return []
 
+index = []
 def add_to_index(index, keyword, url):
     for entry in index:
         if entry[0] == keyword:
@@ -23,8 +25,8 @@ def make_string(p):
     s = ""
     for e in p:
         s = s+ e
+    return s
 
-        return s
 def make_big_index(size):
     index = []
     letters = ['a','a','a','a','a','a','a','a',]
@@ -40,3 +42,8 @@ def make_big_index(size):
     return index
 
 index10 = make_big_index(10)
+print (index10)
+print (index10)
+print (index10)
+
+

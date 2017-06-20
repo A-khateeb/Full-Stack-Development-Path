@@ -12,6 +12,8 @@ def spin_loop(n):
          i=i+1
 
 
+
+
 #print (time_execution("1+1"))
 #print (time_execution('spin_loop(1000000000)'))
 print (time_execution('spin_loop(10 ** 9)'))
