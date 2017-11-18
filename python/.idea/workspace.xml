@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="143c0367-6b2a-4eec-b9de-576d5e8e2bd1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DSA-Chapter1-Section 2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/Alerts.js" afterPath="$PROJECT_DIR$/../Javascript/Alerts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/Function_cows_Chiken.js" afterPath="$PROJECT_DIR$/../Javascript/Function_cows_Chiken.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/Recursion.js" afterPath="$PROJECT_DIR$/../Javascript/Recursion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/closure.js" afterPath="$PROJECT_DIR$/../Javascript/closure.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/crawl.html" afterPath="$PROJECT_DIR$/../Javascript/crawl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/hello.html" afterPath="$PROJECT_DIR$/../Javascript/hello.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/hello.js" afterPath="$PROJECT_DIR$/../Javascript/hello.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/index.html" afterPath="$PROJECT_DIR$/../Javascript/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/multiplier.js" afterPath="$PROJECT_DIR$/../Javascript/multiplier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/power.js" afterPath="$PROJECT_DIR$/../Javascript/power.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/script.js" afterPath="$PROJECT_DIR$/../Javascript/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10RowAbacus.py" afterPath="$PROJECT_DIR$/10RowAbacus.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alice.py" afterPath="$PROJECT_DIR$/Alice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Better_Splitting.py" afterPath="$PROJECT_DIR$/Better_Splitting.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blastoff.py" afterPath="$PROJECT_DIR$/Blastoff.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Break.py" afterPath="$PROJECT_DIR$/Break.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DRAM.py" afterPath="$PROJECT_DIR$/DRAM.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dictionaries.py" afterPath="$PROJECT_DIR$/Dictionaries.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exception Handling 2.py" afterPath="$PROJECT_DIR$/Exception Handling 2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exception Handling.py" afterPath="$PROJECT_DIR$/Exception Handling.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/File Management.py" afterPath="$PROJECT_DIR$/File Management.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gaus.py" afterPath="$PROJECT_DIR$/Gaus.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greedy Vs Non-greedy.py" afterPath="$PROJECT_DIR$/Greedy Vs Non-greedy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Guess Number.py" afterPath="$PROJECT_DIR$/Guess Number.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Leap Year.py" afterPath="$PROJECT_DIR$/Leap Year.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/List- Reference.py" afterPath="$PROJECT_DIR$/List- Reference.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/List-for.py" afterPath="$PROJECT_DIR$/List-for.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Local VS GLOBAL1.py" afterPath="$PROJECT_DIR$/Local VS GLOBAL1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Make_big_index2.py" afterPath="$PROJECT_DIR$/Make_big_index2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Max_page.py" afterPath="$PROJECT_DIR$/Max_page.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Multiclipboard.pyw" afterPath="$PROJECT_DIR$/Multiclipboard.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Multiline String.py" afterPath="$PROJECT_DIR$/Multiline String.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phone Extractor.py" afterPath="$PROJECT_DIR$/Phone Extractor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phone-Email Extractor.py" afterPath="$PROJECT_DIR$/Phone-Email Extractor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PicnicItems.py" afterPath="$PROJECT_DIR$/PicnicItems.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PprintPformat.py" afterPath="$PROJECT_DIR$/PprintPformat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Random Quiz.py" afterPath="$PROJECT_DIR$/Random Quiz.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RegexBat.py" afterPath="$PROJECT_DIR$/RegexBat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Regular Expression.py" afterPath="$PROJECT_DIR$/Regular Expression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SplitJoin.py" afterPath="$PROJECT_DIR$/SplitJoin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/String Methods.py" afterPath="$PROJECT_DIR$/String Methods.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sudoku.py" afterPath="$PROJECT_DIR$/Sudoku.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Traffic light assert.py" afterPath="$PROJECT_DIR$/Traffic light assert.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Udacify.py" afterPath="$PROJECT_DIR$/Udacify.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/While.py" afterPath="$PROJECT_DIR$/While.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wikibullets.py" afterPath="$PROJECT_DIR$/Wikibullets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Working with Files.py" afterPath="$PROJECT_DIR$/Working with Files.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add_to_index.py" afterPath="$PROJECT_DIR$/add_to_index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bigger.py" afterPath="$PROJECT_DIR$/bigger.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catnames.py" afterPath="$PROJECT_DIR$/catnames.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/charcount-dectionary.py" afterPath="$PROJECT_DIR$/charcount-dectionary.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clipboard.py" afterPath="$PROJECT_DIR$/clipboard.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/copy-deepcopy.py" afterPath="$PROJECT_DIR$/copy-deepcopy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler_v1.py" afterPath="$PROJECT_DIR$/crawler_v1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayinyear.py" afterPath="$PROJECT_DIR$/dayinyear.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/days_in_month.py" afterPath="$PROJECT_DIR$/days_in_month.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daysbetweendates.py" afterPath="$PROJECT_DIR$/daysbetweendates.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/debug.py" afterPath="$PROJECT_DIR$/debug.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary#2.py" afterPath="$PROJECT_DIR$/dictionary#2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/errorExample.py" afterPath="$PROJECT_DIR$/errorExample.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exit.py" afterPath="$PROJECT_DIR$/exit.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_web_crawler.py" afterPath="$PROJECT_DIR$/final_web_crawler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_web_crawlerv2.py" afterPath="$PROJECT_DIR$/final_web_crawlerv2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/find_element.py" afterPath="$PROJECT_DIR$/find_element.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/for loop.py" afterPath="$PROJECT_DIR$/for loop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/for-10.py" afterPath="$PROJECT_DIR$/for-10.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forloop.py" afterPath="$PROJECT_DIR$/forloop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function-2.py" afterPath="$PROJECT_DIR$/function-2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function.py" afterPath="$PROJECT_DIR$/function.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function1.py" afterPath="$PROJECT_DIR$/function1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/global-local.py" afterPath="$PROJECT_DIR$/global-local.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/greatest_list.py" afterPath="$PROJECT_DIR$/greatest_list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guest.py" afterPath="$PROJECT_DIR$/guest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello.py" afterPath="$PROJECT_DIR$/hello.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello2.py" afterPath="$PROJECT_DIR$/hello2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello3.py" afterPath="$PROJECT_DIR$/hello3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.py" afterPath="$PROJECT_DIR$/home.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hulk2.py" afterPath="$PROJECT_DIR$/hulk2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/improving_the_index.py" afterPath="$PROJECT_DIR$/improving_the_index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in-notin.py" afterPath="$PROJECT_DIR$/in-notin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/increace.py" afterPath="$PROJECT_DIR$/increace.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.py" afterPath="$PROJECT_DIR$/index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jungle.py" afterPath="$PROJECT_DIR$/jungle.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/list_of_lists.py" afterPath="$PROJECT_DIR$/list_of_lists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lists.py" afterPath="$PROJECT_DIR$/lists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local VS global.py" afterPath="$PROJECT_DIR$/local VS global.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs.py" afterPath="$PROJECT_DIR$/logs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magic 8 ball.py" afterPath="$PROJECT_DIR$/magic 8 ball.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make_big_index.py" afterPath="$PROJECT_DIR$/make_big_index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make_big_index_v2.py" afterPath="$PROJECT_DIR$/make_big_index_v2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/max_depth.py" afterPath="$PROJECT_DIR$/max_depth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/measure_udacity.py" afterPath="$PROJECT_DIR$/measure_udacity.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/median.py" afterPath="$PROJECT_DIR$/median.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/methods.py" afterPath="$PROJECT_DIR$/methods.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multilinecomment.py" afterPath="$PROJECT_DIR$/multilinecomment.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mycats.py" afterPath="$PROJECT_DIR$/mycats.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/name.py" afterPath="$PROJECT_DIR$/name.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nested-dectionary.py" afterPath="$PROJECT_DIR$/nested-dectionary.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/number_of_clicks.py" afterPath="$PROJECT_DIR$/number_of_clicks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/numbers.py" afterPath="$PROJECT_DIR$/numbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/password.py" afterPath="$PROJECT_DIR$/password.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pop.py" afterPath="$PROJECT_DIR$/pop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pop_Quiz.py" afterPath="$PROJECT_DIR$/pop_Quiz.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice.py" afterPath="$PROJECT_DIR$/practice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product_list.py" afterPath="$PROJECT_DIR$/product_list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pw.py" afterPath="$PROJECT_DIR$/pw.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/random.py" afterPath="$PROJECT_DIR$/random.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/range.py" afterPath="$PROJECT_DIR$/range.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/replace.py" afterPath="$PROJECT_DIR$/replace.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reply_spy.py" afterPath="$PROJECT_DIR$/reply_spy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/round_trip.py" afterPath="$PROJECT_DIR$/round_trip.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site.py" afterPath="$PROJECT_DIR$/site.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stamp.py" afterPath="$PROJECT_DIR$/stamp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stop_watch.py" afterPath="$PROJECT_DIR$/stop_watch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stopwatch2.py" afterPath="$PROJECT_DIR$/stopwatch2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/structured_list.py" afterPath="$PROJECT_DIR$/structured_list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests.py" afterPath="$PROJECT_DIR$/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/three_stooges.py" afterPath="$PROJECT_DIR$/three_stooges.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tic tak toe.py" afterPath="$PROJECT_DIR$/tic tak toe.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/union.py" afterPath="$PROJECT_DIR$/union.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/validation.py" afterPath="$PROJECT_DIR$/validation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weekend.py" afterPath="$PROJECT_DIR$/weekend.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/while-10.py" afterPath="$PROJECT_DIR$/while-10.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whileloop.py" afterPath="$PROJECT_DIR$/whileloop.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$DSA_Chapter1_Section_2.coverage" NAME="DSA-Chapter1-Section 2 Coverage Results" MODIFIED="1511039048724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DSA-Chapter1-Section 2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DSA-Chapter1-Section 2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DSA-Chapter1-Section 1.py" />
+        <option value="$PROJECT_DIR$/DSA-Chapter1-Section 2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="y" value="25" />
+    <option name="width" value="1311" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DSA-Chapter1-Section 2">
+    <configuration name="DSA-Chapter1-Section 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA-Chapter1-Section 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.DSA-Chapter1-Section 2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="143c0367-6b2a-4eec-b9de-576d5e8e2bd1" name="Default" comment="" />
+      <created>1510398149966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510398149966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="25" width="1311" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18764302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_page_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_to_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA-Chapter1-Section 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
