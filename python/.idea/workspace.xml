@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="143c0367-6b2a-4eec-b9de-576d5e8e2bd1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DSA-Chapter1-Section 2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/Alerts.js" afterPath="$PROJECT_DIR$/../Javascript/Alerts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/Function_cows_Chiken.js" afterPath="$PROJECT_DIR$/../Javascript/Function_cows_Chiken.js" />
@@ -16,119 +15,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/power.js" afterPath="$PROJECT_DIR$/../Javascript/power.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javascript/script.js" afterPath="$PROJECT_DIR$/../Javascript/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10RowAbacus.py" afterPath="$PROJECT_DIR$/10RowAbacus.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alice.py" afterPath="$PROJECT_DIR$/Alice.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Better_Splitting.py" afterPath="$PROJECT_DIR$/Better_Splitting.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blastoff.py" afterPath="$PROJECT_DIR$/Blastoff.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Break.py" afterPath="$PROJECT_DIR$/Break.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DRAM.py" afterPath="$PROJECT_DIR$/DRAM.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dictionaries.py" afterPath="$PROJECT_DIR$/Dictionaries.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exception Handling 2.py" afterPath="$PROJECT_DIR$/Exception Handling 2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exception Handling.py" afterPath="$PROJECT_DIR$/Exception Handling.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/File Management.py" afterPath="$PROJECT_DIR$/File Management.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gaus.py" afterPath="$PROJECT_DIR$/Gaus.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greedy Vs Non-greedy.py" afterPath="$PROJECT_DIR$/Greedy Vs Non-greedy.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Guess Number.py" afterPath="$PROJECT_DIR$/Guess Number.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Leap Year.py" afterPath="$PROJECT_DIR$/Leap Year.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/List- Reference.py" afterPath="$PROJECT_DIR$/List- Reference.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/List-for.py" afterPath="$PROJECT_DIR$/List-for.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Local VS GLOBAL1.py" afterPath="$PROJECT_DIR$/Local VS GLOBAL1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Make_big_index2.py" afterPath="$PROJECT_DIR$/Make_big_index2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Max_page.py" afterPath="$PROJECT_DIR$/Max_page.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Multiclipboard.pyw" afterPath="$PROJECT_DIR$/Multiclipboard.pyw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Multiline String.py" afterPath="$PROJECT_DIR$/Multiline String.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phone Extractor.py" afterPath="$PROJECT_DIR$/Phone Extractor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phone-Email Extractor.py" afterPath="$PROJECT_DIR$/Phone-Email Extractor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PicnicItems.py" afterPath="$PROJECT_DIR$/PicnicItems.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PprintPformat.py" afterPath="$PROJECT_DIR$/PprintPformat.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Random Quiz.py" afterPath="$PROJECT_DIR$/Random Quiz.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RegexBat.py" afterPath="$PROJECT_DIR$/RegexBat.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Regular Expression.py" afterPath="$PROJECT_DIR$/Regular Expression.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SplitJoin.py" afterPath="$PROJECT_DIR$/SplitJoin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/String Methods.py" afterPath="$PROJECT_DIR$/String Methods.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sudoku.py" afterPath="$PROJECT_DIR$/Sudoku.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Traffic light assert.py" afterPath="$PROJECT_DIR$/Traffic light assert.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Udacify.py" afterPath="$PROJECT_DIR$/Udacify.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/While.py" afterPath="$PROJECT_DIR$/While.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wikibullets.py" afterPath="$PROJECT_DIR$/Wikibullets.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Working with Files.py" afterPath="$PROJECT_DIR$/Working with Files.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add_to_index.py" afterPath="$PROJECT_DIR$/add_to_index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bigger.py" afterPath="$PROJECT_DIR$/bigger.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catnames.py" afterPath="$PROJECT_DIR$/catnames.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/charcount-dectionary.py" afterPath="$PROJECT_DIR$/charcount-dectionary.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clipboard.py" afterPath="$PROJECT_DIR$/clipboard.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/copy-deepcopy.py" afterPath="$PROJECT_DIR$/copy-deepcopy.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler_v1.py" afterPath="$PROJECT_DIR$/crawler_v1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayinyear.py" afterPath="$PROJECT_DIR$/dayinyear.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/days_in_month.py" afterPath="$PROJECT_DIR$/days_in_month.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daysbetweendates.py" afterPath="$PROJECT_DIR$/daysbetweendates.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/debug.py" afterPath="$PROJECT_DIR$/debug.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary#2.py" afterPath="$PROJECT_DIR$/dictionary#2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/errorExample.py" afterPath="$PROJECT_DIR$/errorExample.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exit.py" afterPath="$PROJECT_DIR$/exit.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_web_crawler.py" afterPath="$PROJECT_DIR$/final_web_crawler.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_web_crawlerv2.py" afterPath="$PROJECT_DIR$/final_web_crawlerv2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/find_element.py" afterPath="$PROJECT_DIR$/find_element.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/for loop.py" afterPath="$PROJECT_DIR$/for loop.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/for-10.py" afterPath="$PROJECT_DIR$/for-10.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forloop.py" afterPath="$PROJECT_DIR$/forloop.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function-2.py" afterPath="$PROJECT_DIR$/function-2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function.py" afterPath="$PROJECT_DIR$/function.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function1.py" afterPath="$PROJECT_DIR$/function1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/global-local.py" afterPath="$PROJECT_DIR$/global-local.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/greatest_list.py" afterPath="$PROJECT_DIR$/greatest_list.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guest.py" afterPath="$PROJECT_DIR$/guest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello.py" afterPath="$PROJECT_DIR$/hello.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello2.py" afterPath="$PROJECT_DIR$/hello2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello3.py" afterPath="$PROJECT_DIR$/hello3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.py" afterPath="$PROJECT_DIR$/home.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hulk2.py" afterPath="$PROJECT_DIR$/hulk2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/improving_the_index.py" afterPath="$PROJECT_DIR$/improving_the_index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in-notin.py" afterPath="$PROJECT_DIR$/in-notin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/increace.py" afterPath="$PROJECT_DIR$/increace.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.py" afterPath="$PROJECT_DIR$/index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jungle.py" afterPath="$PROJECT_DIR$/jungle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/list_of_lists.py" afterPath="$PROJECT_DIR$/list_of_lists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lists.py" afterPath="$PROJECT_DIR$/lists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local VS global.py" afterPath="$PROJECT_DIR$/local VS global.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs.py" afterPath="$PROJECT_DIR$/logs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magic 8 ball.py" afterPath="$PROJECT_DIR$/magic 8 ball.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make_big_index.py" afterPath="$PROJECT_DIR$/make_big_index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make_big_index_v2.py" afterPath="$PROJECT_DIR$/make_big_index_v2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/max_depth.py" afterPath="$PROJECT_DIR$/max_depth.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/measure_udacity.py" afterPath="$PROJECT_DIR$/measure_udacity.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/median.py" afterPath="$PROJECT_DIR$/median.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/methods.py" afterPath="$PROJECT_DIR$/methods.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multilinecomment.py" afterPath="$PROJECT_DIR$/multilinecomment.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mycats.py" afterPath="$PROJECT_DIR$/mycats.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/name.py" afterPath="$PROJECT_DIR$/name.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nested-dectionary.py" afterPath="$PROJECT_DIR$/nested-dectionary.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/number_of_clicks.py" afterPath="$PROJECT_DIR$/number_of_clicks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/numbers.py" afterPath="$PROJECT_DIR$/numbers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/password.py" afterPath="$PROJECT_DIR$/password.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pop.py" afterPath="$PROJECT_DIR$/pop.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pop_Quiz.py" afterPath="$PROJECT_DIR$/pop_Quiz.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice.py" afterPath="$PROJECT_DIR$/practice.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product_list.py" afterPath="$PROJECT_DIR$/product_list.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pw.py" afterPath="$PROJECT_DIR$/pw.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/random.py" afterPath="$PROJECT_DIR$/random.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/range.py" afterPath="$PROJECT_DIR$/range.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/replace.py" afterPath="$PROJECT_DIR$/replace.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reply_spy.py" afterPath="$PROJECT_DIR$/reply_spy.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/round_trip.py" afterPath="$PROJECT_DIR$/round_trip.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site.py" afterPath="$PROJECT_DIR$/site.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stamp.py" afterPath="$PROJECT_DIR$/stamp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stop_watch.py" afterPath="$PROJECT_DIR$/stop_watch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stopwatch2.py" afterPath="$PROJECT_DIR$/stopwatch2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/structured_list.py" afterPath="$PROJECT_DIR$/structured_list.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests.py" afterPath="$PROJECT_DIR$/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/three_stooges.py" afterPath="$PROJECT_DIR$/three_stooges.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tic tak toe.py" afterPath="$PROJECT_DIR$/tic tak toe.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/union.py" afterPath="$PROJECT_DIR$/union.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/validation.py" afterPath="$PROJECT_DIR$/validation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weekend.py" afterPath="$PROJECT_DIR$/weekend.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/while-10.py" afterPath="$PROJECT_DIR$/while-10.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whileloop.py" afterPath="$PROJECT_DIR$/whileloop.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -272,7 +158,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="25" width="1311" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18764302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -280,7 +165,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
