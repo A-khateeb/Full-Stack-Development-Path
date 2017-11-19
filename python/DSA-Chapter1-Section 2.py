@@ -18,6 +18,8 @@ while not done:
         done = True
     elif grade not in points:
         print("Unknown grade '{0}' being ignored".format(grade))
+    elif grade is None:
+        print("No value entered")
     else:
         num_courses+=1
         total_points+=points[grade]
