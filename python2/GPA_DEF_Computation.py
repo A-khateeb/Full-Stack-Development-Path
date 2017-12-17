@@ -20,4 +20,3 @@ g=compute_gpa(grades)
 print(g)
 
 max(1,2,abs(20))
-
