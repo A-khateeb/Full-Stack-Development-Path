@@ -1,0 +1,2 @@
+scream = print
+scream('hello')
