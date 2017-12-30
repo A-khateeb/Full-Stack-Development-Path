@@ -1,3 +1,4 @@
+import sys
 s = []
 print("Insert information and then press on CTRL+D when you finish")
 try:
@@ -9,3 +10,5 @@ except EOFError:
     print("Print the information in reverse mode")
     for x in s:
         print(x)
+except KeyboardInterrupt:
+    print("Key")
