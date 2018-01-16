@@ -18,5 +18,4 @@ def compute_gpa(grades, points={'A+':4.0,'A':4.0,'A-':3.67,
 grades = ['A+','B+']
 g=compute_gpa(grades)
 print(g)
-
 max(1,2,abs(20))
