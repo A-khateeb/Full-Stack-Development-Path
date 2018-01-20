@@ -20,5 +20,5 @@ def factor(n):
             k+=1
         if k*k == n:
             yield k
-
-print(factor(100))
+if  __name__ == '__main__':
+    print(factor(100))
