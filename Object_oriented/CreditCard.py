@@ -42,7 +42,7 @@ if __name__ == '__main__':
     for c in range(3):
         print("Customer:", wallet[c].get_customer())
         print("Bank:", wallet[c].get_bank())
-        print("Account Number:", wallet.[c].get_account())
+        print("Account Number:", wallet[c].get_account())
         print("Account Limit:" , wallet[c].get_limit())
         print("Account Balance:" , wallet[c].get_balance())
         while wallet[c].get_balance() > 100:
