@@ -1,5 +1,5 @@
-class SqeuenceIterator():
-    def __init__(self, seq):
+class SequenceIterator():
+    def __init__(self, sequence):
         self._seq = sequence
         self._k = -1
 
@@ -12,3 +12,9 @@ class SqeuenceIterator():
 
     def __iter__(data):
         return self
+
+
+
+if __name__=='__main__':
+    v = [1,2,3,4,5,6,7,8,9]
+    SequenceIterator(v)
