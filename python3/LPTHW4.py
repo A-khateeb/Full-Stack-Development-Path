@@ -1,16 +1,21 @@
-my_name = 'Afeef Khateeb'
-my_age = 35
-my_height = 74
-my_weight = 184
-my_eyes = 'Blue'
-my_teeth = 'White'
-my_hair = 'Brown'
-
-print(f"Lets talk about my name {my_name}")
-print(f"He is {my_height} inches tall")
-print(f"He's {my_weight} pound heavy ")
-print(f"He's got {my_eyes} eyes and {my_hair} hair")
-print(f"His teeth are usually {my_teeth} depending on the coffee")
-total =my_age + my_height + my_weight
-print(f"If I add {my_age}, {my_weight},and {my_height} I will get {total}")
+name = 'Afeef Khateeb'
+age = 35
+height = 74
+weight = 184
+eyes = 'Blue'
+teeth = 'White'
+hair = 'Brown'
+height = height * 2.54
+height = float(round(height, 2))
+weight = weight * 0.453592
+weight = float(round(weight, 2))
+print(f"Lets talk about my name {name}")
+print(f"He is {height} inches tall")
+print(f"He's {weight} pound heavy ")
+print(f"He's got {eyes} eyes and {hair} hair")
+print(f"His teeth are usually {teeth} depending on the coffee")
+total = age + height + weight
+total = int(total)
+total = round(total, 2)
+print(f"If I add {age}, {weight},and {height} I will get {total}")
 
