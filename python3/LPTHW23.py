@@ -6,14 +6,14 @@ def main(language_file, encoding, errors):
 
     if line:
         print_line(line, encoding, errors)
-        return main(language_file=, encoding, errors)
+        return main(language_file, encoding, errors)
 
 def print_line(line, encoding,errors):
     next_lang = line.strip()
-    raw_bytes = next_lang.encode(encoding, erros=errors)
-    cooked_strings = raw_bytes.decode(encoding, errors=errors)
+    raw_bytes = next_lang.encode(encoding, errors=errors)
+    cooked_string = raw_bytes.decode(encoding, errors=errors)
 
-    print(raw_bytes, "<====>", cooked_strings)
+    print(raw_bytes, "<====>", cooked_string)
 
-langauges = open("langauges.txt",encoding="utf-8")
-main(langauges,input_encoding,error)
+langauges = open("languages.txt", encoding=("utf-8"))
+main(langauges , input_encoding, error)
