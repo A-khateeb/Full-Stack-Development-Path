@@ -5,7 +5,7 @@ states = {
 'New York' : 'NY',
 'Michigan' : 'MI'
 }
-
+print(states["Florida"])
 Cities = {
 'CA' : 'San Francisco',
 'MI' : 'Detroit',
@@ -14,6 +14,7 @@ Cities = {
 
 Cities['NY'] = "New York"
 Cities['OR'] = "Portland"
+print(Cities.items())
 print('-'*10)
 print('NY State has: ', Cities['NY'])
 print('OR State has: ', Cities['OR'])
