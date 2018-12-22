@@ -1,21 +1,12 @@
-the_court = [1,2,3,4,5]
-fruits = ["Apples","Oranges","Pears","Apricots"]
-change = [1,"Pennies",2,"Dimes",3,"Quarters"]
+the_count = [1,2,3,5,5]
+fruits = ["Apple","Orange","Pears","Apricots"]
+Change = [1,"Pennis",2,"Dims",3,"Quarter"]
 
-for number in the_court:
-    print(f"The court number is {number}")
+for number in the_count:
+    print(f"The number is {number}")
 
 for fruit in fruits:
-    print(f"The fruit type is: {fruit}")
+    print(f"The fruits are {fruit}")
 
-for i in change:
-    print(f"I got {i}")
-
-element = []
-
-for i in range(0,6):
-    print(f"Adding element {i} to the list")
-    element.append(i)
-
-for i in element:
-    print(f"The Element was: {i}")
+for change in Change:
+    print(f"The change I have is {change}")
