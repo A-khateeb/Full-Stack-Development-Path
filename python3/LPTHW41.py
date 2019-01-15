@@ -35,7 +35,10 @@ def convert(snippet, phrase):
 
     for i in range(0, snippet.count("@@@")):
         param_count = random.randint(1,3)
+        print(param_count)
+        #Not able to understand it
         param_names.append(','.join(random.sample(WORDS, param_count)))
+#        print(param_names)
 
     for sentence in snippet, phrase:
         result = sentence[:]
