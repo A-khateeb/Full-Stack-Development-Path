@@ -1,2 +1,0 @@
-scream = print
-scream('hello')

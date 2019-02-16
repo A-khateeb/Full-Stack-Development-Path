@@ -1,6 +1,0 @@
-s = input("Insert Three numbers separated by Blank\n").split())
-print(s)
-a,b,c=(int(i) for i in s)
-print("Is {}+{}={}".format(a,b,c),a+b==c)
-print("Is {}={}-{}".format(a,b,c),a==b-c)
-print("Is {}*{}={}".format(a,b,c),a*b==c)

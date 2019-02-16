@@ -1,6 +1,0 @@
-reply = input("Insert the values for X and Y separated by space")
-pices = reply.split()
-x = float(pices[0])
-y = float(pices[1])
-print(x)
-print(y)
