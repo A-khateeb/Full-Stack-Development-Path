@@ -10,7 +10,7 @@ class Cat(Animal):
     def __init__(self, name):
         self.name = name
 ## Person is-a object
-class Person(object):
+class Person(object): 
     def __init__(self, name):
         ##Person has a name
         self.name = name
