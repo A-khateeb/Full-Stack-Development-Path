@@ -13,13 +13,13 @@ class Parent(object):
     def altered(self):
         print("Parent altered()")
 
-class Child(Parent):
+class Child(Parent, Child1):
     def altered(self):
         print("Child before Parent alter")
         super(Child, self).altered()
         print("Child after parent alter()")
-#        super(Child1, self).altered()
-#        print("Child1 after parent alter()")
+        super(Child1, self).altered1()
+        print("Child1 after parent alter()")
 
 dad = Parent()
 son =  Child()
