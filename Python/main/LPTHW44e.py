@@ -1,3 +1,4 @@
+import LPTHW44d
 class Other(object):
     def override(self):
         print("OTHER override()")
@@ -22,7 +23,8 @@ class Child(object):
         print("Child after altered()")
 
 son = Child()
-
+parent = Parent()
 son.implicit()
 son.altered()
 son.override()
+parent.implicit()
