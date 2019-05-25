@@ -1,0 +1,17 @@
+guests = ['John', 'Ahmad', 'Muhammad', 'Adam', 'Mustafa', 'Mahmoud', 'Rami']
+removed_guest = guests.pop(0)
+print(removed_guest + " Sorry but I will invite you again")
+removed_guest = guests.pop(0)
+print(removed_guest + " Sorry but I will invite you again")
+removed_guest = guests.pop(0)
+print(removed_guest + " Sorry but I will invite you again")
+removed_guest = guests.pop(0)
+print(removed_guest + " Sorry but I will invite you again")
+#print(guests)
+removed_guest = guests.pop(0)
+print(removed_guest + " Sorry but I will invite you again")
+print(guests)
+print(guests[0] + " You are still invited")
+print(guests[1] + " You are still invited")
+del guests
+#print(guests)
