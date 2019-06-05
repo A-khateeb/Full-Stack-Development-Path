@@ -50,3 +50,5 @@ if value not in computers:
 users = ["ahmad","ali","afeef"]
 print('Afeef'.lower() in users)
 print('afeef'.upper() not in users)
+
+users_added = True
