@@ -36,6 +36,33 @@
 # del alien_0["points"]
 # print(alien_0)
 #
+#
+# favorite_langauges = {
+#     'jen':'python',
+#     'sarah':'c',
+#     'edward':'ruby',
+#     'phil':'python',
+# }
+#
+# print("Sarah's favorite langauge is :" +
+#  str(favorite_langauges['sarah'].title()) +
+#  '.')
+
+
+# user_0 = {
+#     "username":"efermi",
+#     "first":"afeef",
+#     "last":"khateeb",
+#
+# }
+# #print(user_0["username"])
+#
+# for key,value in user_0.items():
+# #    print(i)
+#     print("\nKey:  " + key)
+#     print("Value: " + value)
+# #    print(key +":" +value+ " " )
+
 
 favorite_langauges = {
     'jen':'python',
@@ -44,6 +71,30 @@ favorite_langauges = {
     'phil':'python',
 }
 
-print("Sarah's favorite langauge is :" +
- str(favorite_langauges['sarah'].title()) +
- '.')
+# for name, langauge in favorite_langauges.items():
+#     print(name.title()+ "'s favorite langauge is "+ langauge)
+#
+# for name in favorite_langauges.keys():
+#     print(name.title())
+# for name in favorite_langauges.items():
+#     print(name)
+
+# for name in favorite_langauges.values():
+#     print(name.title())
+
+# firend = ['phil','sarah']
+# for name in favorite_langauges.keys():
+#     if name not in firend:
+#         print(name.title())
+#     elif name in firend:
+#         print("Hi "+ name.title()+
+#              " I see that your favorite langauge is "+
+#              favorite_langauges[name].title())
+# if 'eren' not in favorite_langauges.keys():
+#     print("Eren checkout our poll ")
+
+# for name in sorted(favorite_langauges.keys()):
+#     print(name.title()+ " Thank you for taking the poll")
+print("The langauges are\n")
+for langauges in set(sorted(favorite_langauges.values())):
+    print(langauges.title())
