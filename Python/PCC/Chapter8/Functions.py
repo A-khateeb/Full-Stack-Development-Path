@@ -39,3 +39,55 @@ def animal_info(animal_name, animal_type = "dog"):
 animal_info(animal_name = 'Harry')
 animal_info(animal_name = 'Willie', animal_type = 'Hamster')
 #animal_info()
+##############################
+##############################
+##Return value
+
+def get_name(first_name, last_name):
+    full_name = first_name +' '+last_name
+    return full_name.title()
+musician = get_name('Harry', 'Potter')
+print(musician)
+
+##############################
+##############################
+#Return a value with optional argument
+
+def get_name(first_name ,last_name, middle_name = ''):
+    if middle_name:
+        full_name = first_name +' '+middle_name+' '+last_name
+    else:
+        full_name = first_name + ' ' + last_name
+    return full_name.title()
+musician = get_name('Harry','Potter', middle_name = 'lee')
+print(musician)
+musician = get_name('Harry','Potter')
+print(musician)
+##############################
+##############################
+#Return a dictionary
+
+
+def build_person(first_name , last_name, age = '' ):
+    person= {'first':first_name, 'last': last_name}
+    if age:
+        person['age'] = age
+#        print(person)
+    return person
+
+musican = build_person('Afeef' ,'khateeb', age = '26')
+print(musican)
+##############################
+##############################
+##While loop with a function
+def get_formated_name(first_name, last_name ):
+    full_name = first_name + " "+last_name
+    return full_name
+
+while True:
+    print("Please tell me your name ")
+    f_name = input("First Name ")
+    l_name = input("Last Name ")
+    name = get_formated_name(f_name,l_name)
+    print("Hello "+ name)
+        
