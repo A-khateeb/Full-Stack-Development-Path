@@ -86,8 +86,12 @@ def get_formated_name(first_name, last_name ):
 
 while True:
     print("Please tell me your name ")
+    print("Enter q or Q to quit")
     f_name = input("First Name ")
+    if f_name == 'q' or f_name == 'Q':
+        break
     l_name = input("Last Name ")
+    if l_name == '1' or l_name == 'Q':
+        break
     name = get_formated_name(f_name,l_name)
     print("Hello "+ name)
-        
