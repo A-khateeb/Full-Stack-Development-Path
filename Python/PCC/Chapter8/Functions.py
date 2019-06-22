@@ -1,6 +1,6 @@
-# def greet_user():
-#     '''Display a simple greeting!'''
-#     print("Hello")
+def greet_user():
+    '''Display a simple greeting!'''
+    print("Hello")
 
 def greet_user(username):
     '''Display a simple greeting!'''
@@ -38,3 +38,4 @@ def animal_info(animal_name, animal_type = "dog"):
 #Data passed in the function call is an argument
 animal_info(animal_name = 'Harry')
 animal_info(animal_name = 'Willie', animal_type = 'Hamster')
+#animal_info()
