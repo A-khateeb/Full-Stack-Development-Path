@@ -95,3 +95,16 @@ while True:
         break
     name = get_formated_name(f_name,l_name)
     print("Hello "+ name)
+
+##############################
+##############################
+
+
+def greeting_user(names):
+    for i in names:
+        msg = 'Hello ' + i.title()
+        print(msg)
+
+
+username = ['hannah', 'afeef' , 'Muhammad' ]
+greeting_user(username)
