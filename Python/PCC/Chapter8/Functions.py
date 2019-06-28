@@ -123,19 +123,44 @@
 # for completed_desgin in completed_desgin:
 #     print(completed_desgin.title())
 
+# def print_design(unprinted_desing, completed_desgin):
+#     while unprinted_desing:
+#         current_design = unprinted_desing.pop()
+#         print("Printing Model: " + current_design)
+#         completed_desgin.append(current_design)
+#
+# def show_completed_design(completed_desgin):
+#     print("Designs that are done:\n")
+#     for s in completed_desgin:
+#         print(s.title())
+#
+# unprinted_desing = ['iphone Case','robot pendant','dodecahedron', 'Hello Design']
+# completed_desgin = []
+#
+# print_design( unprinted_desing, completed_desgin)
+# show_completed_design(completed_desgin)
+#
+#
+##############################
+##############################
+#function_name(list[:])
+
+
 def print_design(unprinted_desing, completed_desgin):
     while unprinted_desing:
         current_design = unprinted_desing.pop()
         print("Printing Model: " + current_design)
         completed_desgin.append(current_design)
+#        print(unprinted_desing)
 
 def show_completed_design(completed_desgin):
     print("Designs that are done:\n")
     for s in completed_desgin:
         print(s.title())
 
-unprinted_desing = ['iphone Case','robot pendant','dodecahedron']
+unprinted_desing = ['iphone Case','robot pendant','dodecahedron', 'Hello Design']
 completed_desgin = []
 
-print_design( unprinted_desing, completed_desgin)
+print_design( unprinted_desing[:], completed_desgin)
+print(unprinted_desing)
 show_completed_design(completed_desgin)
