@@ -146,21 +146,56 @@
 #function_name(list[:])
 
 
-def print_design(unprinted_desing, completed_desgin):
-    while unprinted_desing:
-        current_design = unprinted_desing.pop()
-        print("Printing Model: " + current_design)
-        completed_desgin.append(current_design)
-#        print(unprinted_desing)
+# def print_design(unprinted_desing, completed_desgin):
+#     while unprinted_desing:
+#         current_design = unprinted_desing.pop()
+#         print("Printing Model: " + current_design)
+#         completed_desgin.append(current_design)
+# #        print(unprinted_desing)
+#
+# def show_completed_design(completed_desgin):
+#     print("Designs that are done:\n")
+#     for s in completed_desgin:
+#         print(s.title())
+#
+# unprinted_desing = ['iphone Case','robot pendant','dodecahedron', 'Hello Design']
+# completed_desgin = []
+#
+# print_design( unprinted_desing[:], completed_desgin)
+# print(unprinted_desing)
+# show_completed_design(completed_desgin)
 
-def show_completed_design(completed_desgin):
-    print("Designs that are done:\n")
-    for s in completed_desgin:
-        print(s.title())
+##############################
+##############################
+#
+# def make_pizza(*toppings):
+#     print("Makeing the Pizza with the following toppings")
+#     for topping in toppings:
+#         print('-' + topping)
+#
+#
+# make_pizza('Pepperoni')
+# make_pizza('Pepperoni','Green peppers','Extra Cheese','Mushroom')
+##############################
+##############################
 
-unprinted_desing = ['iphone Case','robot pendant','dodecahedron', 'Hello Design']
-completed_desgin = []
+# def make_pizza(size, *toppings):
+#     print("Making a " + str(size) + "-inch with the following toppings:")
+#     for topping in toppings:
+#         print('- '+topping.title())
+#
+# make_pizza(16, 'Muhsroom')
+# make_pizza(12, 'Muhsroom', 'green peppers', 'extra cheese')
+##############################
+##############################
 
-print_design( unprinted_desing[:], completed_desgin)
-print(unprinted_desing)
-show_completed_design(completed_desgin)
+def make_profile(first, last, **user_profile):
+    profile={}
+    profile['first_name'] = first
+    profile['last_name'] = last
+    for key, value in user_profile.items():
+        profile[key] = value
+    return profile
+
+user_profile = make_profile('albert','einstin',location='princeton',field='physics')
+print(user_profile)
