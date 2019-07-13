@@ -1,0 +1,6 @@
+In python you can loop
+In python you can create lists
+In python you can create dictionaries
+In python you can read from files
+In python you can create build a website
+In python you can create build a chatbot
