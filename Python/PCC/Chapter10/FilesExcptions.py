@@ -43,14 +43,35 @@
 #     print("Your birthday does not appear in the pi digits")
 # print(pi_string[:52] + ".....")
 # print(len(pi_string))
-file_path = ("programming.txt")
-with open(file_path, 'w') as file_object:
-    file_object.write("I love programming \n")
-    file_object.write("I love programming and sport ")
+# file_path = ("programming.txt")
+# with open(file_path, 'w') as file_object:
+#     file_object.write("I love programming \n")
+#     file_object.write("I love programming and sport ")
+#
+# file_path = ("programming2.txt")
+# with open(file_path, 'a') as file_object:
+# #    file_object.write("I love programming \n")
+# #    file_object.write("I love programming and sport ")
+# #    file_object.write("I love building games ")
+#     file_object.write("\nI love eating water mellon ")
 
-file_path = ("programming2.txt")
-with open(file_path, 'a') as file_object:
-#    file_object.write("I love programming \n")
-#    file_object.write("I love programming and sport ")
-#    file_object.write("I love building games ")
-    file_object.write("\nI love eating water mellon ")
+# try:
+#     print(5/0)
+# except ZeroDivisionError:
+#     print("You cannot divide by Zero")
+
+print("Give me two numbers and I will divide them for you")
+print("Insert Q/q to quit")
+while True:
+    first_number = input("Insert the first number: ")
+    if first_number == 'q' or first_number == 'Q':
+        break
+    second_number = input("Insert the second number: ")
+    if second_number == 'q' or second_number== 'Q':
+        break
+    try:
+        answer = int(first_number)/int(second_number)
+    except ZeroDivisionError:
+        print("You cannot divide by Zero")
+    else:
+        print(answer)
