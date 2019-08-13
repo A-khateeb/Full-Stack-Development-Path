@@ -35,3 +35,5 @@ class Car():
 
 new_car = Car('Audi' , 'A4', 2019)
 print(new_car.get_descriptive_name())
+old_car = Car('Audi' , 'A4', 2019)
+print(old_car.get_descriptive_name())
