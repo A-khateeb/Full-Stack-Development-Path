@@ -1,15 +1,16 @@
-class Restaurant():
-	def __init__(self, rname, rType):
-		self.rname = rname
-		self.rType = rType
-	
-	def describe_restaurant(self):
-		print(self.rname + " is a " + self.rType)
-	def open_restauarant(self):
-		print(self.rname + " is open now")
+class Restaurants():
+     def __init__(self, restname, restType):
+	 self.restname = name
+	 self.restType = restType
 
-new_rest = Restaurant("Pizza Hut" , "French cuzine")
-print(new_rest.rname.title())
-print(new_rest.describe_restaurant())
+     def describe_restaurat(self):
+         print("Welcome to "+ name + " where we serve "+ restType)
 
+     def open_restaurant(self):
+	 print(name + " is now open!")
 
+new_rest = Restaurants("Pizza Hut", "Normal")
+print(new_rest.name)
+new_rest.describe_restaurant()
+new_rest.open_restaurant()
+ 
