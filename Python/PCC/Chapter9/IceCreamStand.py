@@ -25,11 +25,11 @@ class IceCream(Restaurant):
         super().__init__(rname, rType)
         self.rname = rname
         self.rType = rType
+
     def describe_flavors(self):
         flavoree = ["A","B","C"]
-        for items in flavoree:
-            message = "The flavor you are searching for is "  + list(range(items))
-        return(message)
+#        return(flavoree[0:])
+        return("The flavors you are looking for are \n"+"\n".join(str(x) for x in flavoree))
 
 new_rest = Restaurant("Pizza Hut" , "French cuzine")
 print(new_rest.rname.title())
