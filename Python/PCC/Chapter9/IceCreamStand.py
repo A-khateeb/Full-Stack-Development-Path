@@ -1,3 +1,4 @@
+from random import random
 class Restaurant():
      def __init__(self, rname, rType):
          self.rname = rname
@@ -26,9 +27,8 @@ class IceCream(Restaurant):
         self.rType = rType
     def describe_flavors(self):
         flavoree = ["A","B","C"]
-        for item in flavoree:
-            pass
-        message = "The flavor you are searching for is "  + item
+        for items in flavoree:
+            message = "The flavor you are searching for is "  + list(range(items))
         return(message)
 
 new_rest = Restaurant("Pizza Hut" , "French cuzine")
