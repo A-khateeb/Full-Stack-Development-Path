@@ -1,5 +1,8 @@
-from Car import ElectricCar, Car
-
+# from Car import ElectricCar, Car
+# import Car
+# from Car import *
+from Car import Car
+from electric_car import ElectricCar
 my_beetle = Car("VW", 'Beetle', 2019)
 print(my_beetle.get_descriptive_name())
 
