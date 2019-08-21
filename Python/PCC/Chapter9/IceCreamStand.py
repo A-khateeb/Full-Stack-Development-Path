@@ -1,4 +1,3 @@
-from random import random
 class Restaurant():
      def __init__(self, rname, rType):
          self.rname = rname
